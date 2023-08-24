@@ -1,0 +1,49 @@
+.AddBtn{
+    /* padding: 8px;
+    background-color: blue;
+    color: white;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 18px;
+    border: none;
+    border-radius: 5%; */
+   margin: 0px 0px 10px 10px;
+}
+ .mainContainer{
+    margin-top: 20px;
+  
+ }
+
+ .dltBtn{
+    background-color: rgb(223, 69, 14);
+    color: white;
+    padding: 6px 6px;
+    border: none;
+    border-radius: 10%;
+ }
+
+.editBtn{
+    color: white;
+    padding: 6px 12px;
+    border: none;
+    background-color: rgb(55, 100, 212);
+    border-radius: 10%;
+}
+
+.saveBtn{
+    color: white;
+    padding: 6px 9px;
+    border: none;
+    border-radius: 10%;
+    background-color: rgb(98, 147, 24);
+    
+}
+
+.cancelBtn{
+    color: white;
+    padding: 6px 6px;
+    border: none;
+    border-radius: 10%;
+    background-color: rgb(46, 56, 202);
+
+}
+
